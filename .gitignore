@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Generated report outputs
+watchlist_report_*.html
+tradingview_watchlist.txt
+screener.pine
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
